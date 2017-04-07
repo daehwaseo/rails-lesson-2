@@ -5,6 +5,6 @@ class HomeController < ApplicationController
   
   # Action
   def likelion 
-    @city = 'Brisbane'
+    @city = 'Australia'
   end
 end
